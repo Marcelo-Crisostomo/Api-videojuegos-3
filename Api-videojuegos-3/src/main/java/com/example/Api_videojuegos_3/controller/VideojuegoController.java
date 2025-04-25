@@ -25,7 +25,7 @@ public class VideojuegoController {
     @GetMapping("/hola")
     public String saludo(){
         //4 retorno
-        return " Bienvenidos a mi API de Videojuegos.....👍🤣😂🙌 ";
+        return " Bienvenidos a mi API de Videojuegos Gerardo Vera👍🤣😂🙌 ";
     }
 
     //5 Este metodo responde con un JSON
